@@ -1,4 +1,3 @@
-
 def calculate_grade(marks):
     if marks < 0 or marks > 100:
         return "Invalid marks"
@@ -25,3 +24,4 @@ print("\n--- Student Result ---")
 print("Student Name:", name)
 print("Marks:", marks)
 print("Grade:", grade)
+print("Thank you for using Student Grade Calculator!")
